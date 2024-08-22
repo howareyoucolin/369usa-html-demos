@@ -39,6 +39,8 @@
   </div>
 
   <div class="sep"></div>
+
+  <?php include('./cz-components/footers/dark-info.php'); ?>
 </body>
 
 </html>
