@@ -33,6 +33,12 @@
   </div>
 
   <div class="sep"></div>
+
+  <div class="container">
+    <?php include('./cz-components/latest-posts/two-columns.php'); ?>
+  </div>
+
+  <div class="sep"></div>
 </body>
 
 </html>
