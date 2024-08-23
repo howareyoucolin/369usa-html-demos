@@ -214,8 +214,8 @@
     </button>
     <div class="navbar-menu" id="navbar-menu">
         <ul>
-            <li><a href="#" class="active">Home</a></li>
-            <li><a href="#">Aboutz</a></li>
+            <li><a href="index.php" class="active">Home</a></li>
+            <li><a href="about.php">About</a></li>
             <li><a href="#">Services</a></li>
             <li><a href="#">Pricing</a></li>
             <li><a href="#">Contact</a></li>

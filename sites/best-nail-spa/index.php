@@ -22,25 +22,25 @@
 </head>
 
 <body>
-  <?php include('./cz-components/menubars/space-between.php'); ?>
-  <?php include('./cz-components/hero/simple.php'); ?>
+  <?php include('../../cz-components/menubars/space-between.php'); ?>
+  <?php include('../../cz-components/hero/simple.php'); ?>
   <div class="sep"></div>
-  <?php include('./cz-components/paragraphs/home-intro.php'); ?>
+  <?php include('../../cz-components/paragraphs/home-intro.php'); ?>
   <div class="sep"></div>
 
   <div class="container">
-    <?php include('./cz-components/grids/horizontal.php'); ?>
+    <?php include('../../cz-components/grids/horizontal.php'); ?>
   </div>
 
   <div class="sep"></div>
 
   <div class="container">
-    <?php include('./cz-components/latest-posts/two-columns.php'); ?>
+    <?php include('../../cz-components/latest-posts/two-columns.php'); ?>
   </div>
 
   <div class="sep"></div>
 
-  <?php include('./cz-components/footers/dark-info.php'); ?>
+  <?php include('../../cz-components/footers/dark-info.php'); ?>
 </body>
 
 </html>
