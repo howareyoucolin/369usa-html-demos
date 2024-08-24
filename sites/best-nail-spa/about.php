@@ -22,7 +22,7 @@
 </head>
 
 <body>
-  <?php include('../../cz-components/menubars/space-between.php'); ?>
+  <?php include('../../cz-components/headers/space-between.php'); ?>
   <?php include('../../cz-components/hero/simple.php'); ?>
   <div class="sep"></div>
   <?php include('../../cz-components/paragraphs/home-intro.php'); ?>
